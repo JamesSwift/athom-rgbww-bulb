@@ -58,15 +58,6 @@ light:
     
     effects:
       - random:
-      - strobe:
-          name: Strobe
-          colors:
-            - state: true
-              brightness: 100%
-              duration: 50ms
-            - state: true
-              brightness: 0%
-              duration: 50ms
       - pulse:
       - flicker:
       - strobe:
