@@ -39,7 +39,7 @@ web_server:
 captive_portal:
 
 dashboard_import:
-  package_import_url: github://JamesSwift/athom-rgbww-bulb/athom-rgbww-bulb.yaml
+  package_import_url: github://JamesSwift/athom-rgbww-bulb/athom-rgbww-bulb.yaml@main
 
 light:
   - platform: rgbww
